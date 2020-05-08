@@ -1,0 +1,19 @@
+﻿  Lab6-7.cpp
+C:\Users\CRIS\Desktop\lab6-7_IorgaCristian\Tonomat\Repo.h(61,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\CRIS\Desktop\lab6-7_IorgaCristian\Tonomat\Repo.h(60): message : while compiling class template member function 'int Repo<T>::getSize(void)'
+          with
+          [
+              T=Coin
+          ]
+C:\Users\CRIS\Desktop\lab6-7_IorgaCristian\Tonomat\Repo.h(24): message : see reference to function template instantiation 'int Repo<T>::getSize(void)' being compiled
+          with
+          [
+              T=Coin
+          ]
+C:\Users\CRIS\Desktop\lab6-7_IorgaCristian\Tonomat\RepoFile.h(11): message : see reference to class template instantiation 'Repo<T>' being compiled
+          with
+          [
+              T=Coin
+          ]
+C:\Users\CRIS\Desktop\lab6-7_IorgaCristian\Tonomat\ServiceCoins.h(13): message : see reference to class template instantiation 'RepoFile<Coin>' being compiled
+  Tonomat.vcxproj -> C:\Users\CRIS\Desktop\lab6-7_IorgaCristian\Tonomat\x64\Debug\Tonomat.exe

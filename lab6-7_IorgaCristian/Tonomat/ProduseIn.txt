@@ -1,0 +1,5 @@
+1 1.5 soparla
+2 2.5 apa
+3 4 bere
+4 5 pepsi
+5 6 chipsuri
